@@ -1,6 +1,6 @@
 {
   "name": "iranian-national-code-validator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Iranian National Code Validator",
   "bin": {
     "iranian-national-code-validator": "index.ts"
@@ -13,5 +13,5 @@
     "validator"
   ],
   "author": "Alireza Mehdizadeh",
-  "license": "ISC"
+  "license": "MIT"
 }

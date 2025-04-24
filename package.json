@@ -1,0 +1,17 @@
+{
+  "name": "iranian-national-code-validator",
+  "version": "1.0.0",
+  "description": "Iranian National Code Validator",
+  "bin": {
+    "iranian-national-code-validator": "index.ts"
+  },
+  "keywords": [
+    "iran",
+    "iranian",
+    "meli-code",
+    "national-code",
+    "validator"
+  ],
+  "author": "Alireza Mehdizadeh",
+  "license": "ISC"
+}
